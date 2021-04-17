@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: linear-gradient(to top right, #81e6d9, #285e61);
+}
+
+.Btn {
+  cursor: pointer;
+  background: E5E7EB;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  margin: 1rem 0.3rem;
+}
+
+.music {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  width: 40%;
+  margin: 1rem 1rem;
+  border-radius: 0.5rem;
+  display: block;
+  margin: 0 auto;
+}
